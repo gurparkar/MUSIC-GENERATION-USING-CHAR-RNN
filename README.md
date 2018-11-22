@@ -4,7 +4,7 @@ Multi-layer recurrent neural networks for training and sampling from texts, insp
 
 ### Requirements
 
-This code is written in Python 2, and it requires the [Keras](https://keras.io) deep learning library.
+This code is written in Python 3, and it requires the [Keras](https://keras.io) deep learning library.
 
 ### Usage
 
@@ -17,7 +17,11 @@ $ python train.py
 
 To sample the model:
 ```bash
-$ python sample.py 100
+$ python sample.py 300 
+
+
+
+depending upon i you have gpu write python sample,py 300 for greater accuracy or else write python sample.py 100 and you can also increse your dat if you decent Ram in your pc more than 8 gb 
 ```
 
 Training loss/accuracy is stored in `logs/training_log.csv`.
