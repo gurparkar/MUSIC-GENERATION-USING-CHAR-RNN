@@ -21,8 +21,8 @@ $ python train.py
 To sample the model:
 ```bash
 $ python sample.py 300 
- n
- 1.you have to copy solution generated command prompt after paste it on https://abcjs.net/abcjs-editor.html and you can download the file 
+ 
+1.you have to copy solution generated command prompt after paste it on https://abcjs.net/abcjs-editor.html and you can download the file 
  in midi format also
  
 
