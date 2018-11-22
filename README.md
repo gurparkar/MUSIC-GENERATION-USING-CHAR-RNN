@@ -21,7 +21,7 @@ $ python sample.py 300
 
 
 
-depending upon i you have gpu write python sample,py 300 for greater accuracy or else write python sample.py 100 and you can also increse your dat if you decent Ram in your pc more than 8 gb 
+depending upon i you have gpu write python sample.py 300 for greater accuracy or else write python sample.py 100 and you can also increse your dat if you decent Ram in your pc more than 8 gb 
 ```
 
 Training loss/accuracy is stored in `logs/training_log.csv`.
